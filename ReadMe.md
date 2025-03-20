@@ -73,15 +73,13 @@ Average Turnaround Time: 37.50
 - **Preemption**: Current implementation assumes non-preemptive scheduling within queues.
 - **Metrics**: CPU utilization calculation can be added for deeper analysis.
 
-## 📄 License
-MIT License. See [LICENSE](LICENSE) for details.
 
----
 
 **Reimplemented by**: Houssem-eddine LAHMER  
 **Contact**: [houssemeddine.lahmer@outlook.com](mailto:houssemeddine.lahmer@outlook.com)  
 **Academic Citation**:  
-```bibtex
+
+
 @inproceedings{datta2022adaptive,
   title={Adaptive Real-Time Scheduler for Embedded Operating System},
   author={Datta, Arkajit and Rao, Shamith D and Mohan, CG},
