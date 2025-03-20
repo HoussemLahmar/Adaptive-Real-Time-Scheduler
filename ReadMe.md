@@ -77,14 +77,3 @@ Average Turnaround Time: 37.50
 
 **Reimplemented by**: Houssem-eddine LAHMER  
 **Contact**: [houssemeddine.lahmer@outlook.com](mailto:houssemeddine.lahmer@outlook.com)  
-**Academic Citation**:  
-```bibtex
-@inproceedings{datta2022adaptive,
-  title={Adaptive Real-Time Scheduler for Embedded Operating System},
-  author={Datta, Arkajit and Rao, Shamith D and Mohan, CG},
-  booktitle={Proceedings of the 2nd Indian International Conference on Industrial Engineering and Operations Management},
-  pages={191--201},
-  year={2022},
-  organization={IEOM Society International}
-}
-```
